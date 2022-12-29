@@ -1,0 +1,14 @@
+body {
+    background: #1D232A;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #15191C;
+    padding: 8px 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+}
